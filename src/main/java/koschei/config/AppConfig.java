@@ -15,3 +15,4 @@ public class AppConfig {
         return new Island2(wood);
     }
 }
+
